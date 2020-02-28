@@ -14,7 +14,7 @@ token = os.getenv('DISCORD_TOKEN')
 
 bot = commands.Bot(command_prefix='!')
 
-@bot.command(name='cook', help='Replies when your food is cooked.')
+@bot.command(name='cook', help='Replies when your food is cooked. Example:  !cook fish')
 async def cook(ctx, food_type):
     if food_type == 'fish':
         response = "Fish cooked!"
