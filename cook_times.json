@@ -1,0 +1,34 @@
+{
+  "food": {
+    "fish": [
+      {
+        "name": "fish",
+        "cooktime": 45
+      }
+    ],
+    "meat": [
+      {
+        "name": "meat",
+        "cooktime": 65
+      }
+    ],
+    "trophyfish": [
+      {
+        "name": "meat",
+        "cooktime": 95
+      }
+    ],
+    "kraken": [
+      {
+        "name": "kraken",
+        "cooktime": 100
+      }
+    ],
+    "megalodon": [
+      {
+        "name": "megalodon",
+        "cooktime": 100
+      }
+    ]
+  }
+}
